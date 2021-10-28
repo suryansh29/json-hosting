@@ -13,7 +13,7 @@
         "path": "/basic/",
         "size": "120 KB",
         "subtitle": "Template",
-        "thumbSrc": "https://git.corp.adobe.com/pages/suryshar/poc-wizard-ui/public/basic.png",
+        "thumbSrc": "https://suryansh29.github.io/json-hosting/public/basic.png",
         "type": "image"
     },
     {
@@ -23,7 +23,7 @@
         "path": "/blank/",
         "size": "150 KB",
         "subtitle": "Template",
-        "thumbSrc": "https://git.corp.adobe.com/pages/suryshar/poc-wizard-ui/public/blank.png",
+        "thumbSrc": "https://suryansh29.github.io/json-hosting/public/blank.png",
         "type": "image"
     },
     {
@@ -32,7 +32,7 @@
         "name": "Basic with Dor Template",
         "path": "/mock/c",
         "size": "15 KB",
-        "thumbSrc": "https://git.corp.adobe.com/pages/suryshar/poc-wizard-ui/public/basic.png",
+        "thumbSrc": "https://suryansh29.github.io/json-hosting/public/basic.png",
         "type": "image",
         "subtitle": "Template"
     },
@@ -44,7 +44,7 @@
         "path": "/mock/b",
         "size": "45 KB",
         "subtitle": "Template",
-        "thumbSrc": "https://git.corp.adobe.com/pages/suryshar/poc-wizard-ui/public/html5.png",
+        "thumbSrc": "https://suryansh29.github.io/json-hosting/public/html5.png",
         "type": "image"
     },
     {
@@ -54,7 +54,7 @@
         "path": "/mock/s1",
         "size": "100 KB",
         "subtitle": "Template",
-        "thumbSrc": "https://git.corp.adobe.com/pages/suryshar/poc-wizard-ui/public/basic-with-sign.png",
+        "thumbSrc": "https://suryansh29.github.io/json-hosting/public/basic-with-sign.png",
         "type": "image"
     }
 ]
