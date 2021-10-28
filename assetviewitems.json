@@ -1,0 +1,60 @@
+[
+    {
+        "id": "x",
+        "modified": "Monday",
+        "name": "Template Folder",
+        "path": "/some/path",
+        "type": "folder"
+    },
+    {
+        "id": "BasicTemplate",
+        "modified": "Monday",
+        "name": "Basic Template",
+        "path": "/basic/",
+        "size": "120 KB",
+        "subtitle": "Template",
+        "thumbSrc": "https://git.corp.adobe.com/pages/suryshar/poc-wizard-ui/public/basic.png",
+        "type": "image"
+    },
+    {
+        "id": "BlankTemplate",
+        "modified": "Tuesday",
+        "name": "Blank Template",
+        "path": "/blank/",
+        "size": "150 KB",
+        "subtitle": "Template",
+        "thumbSrc": "https://git.corp.adobe.com/pages/suryshar/poc-wizard-ui/public/blank.png",
+        "type": "image"
+    },
+    {
+        "id": "BasicWithDorTemplate",
+        "modified": "Tuesday",
+        "name": "Basic with Dor Template",
+        "path": "/mock/c",
+        "size": "15 KB",
+        "thumbSrc": "https://git.corp.adobe.com/pages/suryshar/poc-wizard-ui/public/basic.png",
+        "type": "image",
+        "subtitle": "Template"
+    },
+    {
+        "actions": [],
+        "id": "d",
+        "modified": "Tuesday",
+        "name": "HDFC Bank Template",
+        "path": "/mock/b",
+        "size": "45 KB",
+        "subtitle": "Template",
+        "thumbSrc": "https://git.corp.adobe.com/pages/suryshar/poc-wizard-ui/public/html5.png",
+        "type": "image"
+    },
+    {
+        "id": "s1",
+        "modified": "Wednesday",
+        "name": "Basic with Adobe sign",
+        "path": "/mock/s1",
+        "size": "100 KB",
+        "subtitle": "Template",
+        "thumbSrc": "https://git.corp.adobe.com/pages/suryshar/poc-wizard-ui/public/basic-with-sign.png",
+        "type": "image"
+    }
+]

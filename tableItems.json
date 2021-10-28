@@ -1,0 +1,8 @@
+{
+    "tableItems": [
+        {"name":"Basic", "type":"Template","key":"0"},
+        {"name":"Blank", "type":"Template","key":"1"},
+        {"name":"Dor", "type":"Template","key":"2"},
+        {"name":"Ultramarine", "type":"Template","key":"3"}
+    ]
+}
